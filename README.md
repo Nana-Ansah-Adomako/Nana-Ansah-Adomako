@@ -1,4 +1,4 @@
-[![MasterHead](https://t3.ftcdn.net/jpg/07/32/15/44/360_F_732154419_J7KlGAwH6hg9vU9xd9sPjR3wWTTic10n.jpg)
+![MasterHead](https://t3.ftcdn.net/jpg/07/32/15/44/360_F_732154419_J7KlGAwH6hg9vU9xd9sPjR3wWTTic10n.jpg)
 <h1 align="center">Hi 👋, I'm Nana</h1>
 <h3 align="center">A Biochemist with keen interest in Machine learning & Bioinformatics.</h3>
 <img align="right" alt="Coding" width="400" src="https://engineering.nyu.edu/sites/default/files/2021-09/bioinformatics-ms-main-hero-animated_0.gif">
